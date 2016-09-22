@@ -1,2 +1,3 @@
 # testGA
-GA Dash project
+
+code for basic website with HTML, CSS, JavaScript, and jQuery
